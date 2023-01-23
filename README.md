@@ -31,7 +31,7 @@ def circulate():
 ```
 
 ## Output:
-!['OUTPUT'](/circulate.png)
+!['OUTPUT'](/Screenshot%20from%202023-01-23%2017-57-27.png)
 
 ## Result:
 This programe is excuted successfully
